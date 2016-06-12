@@ -1,0 +1,3 @@
+long leg = anode -> gpio	
+short left = cathode -> resistor + ground
+green = RX -> tx
